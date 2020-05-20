@@ -2,6 +2,8 @@
 
 ### Repository to house the solutions of the 31 day [May LeetCode Challenge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/)
 
+***
+
 
 - Day 1 (First Bad Version)
 
@@ -17,6 +19,8 @@
 
 - Day 7 (Cousins in a Binary Tree)
 
+***
+
 - Day 8 (Check for a Straight Line)
 
 - Day 9 (Perfect Square Checker without sqrt)
@@ -31,11 +35,14 @@
 
 - Day 14 (Implement Trie)
 
+***
+
 - Day 15 (Maximum Sum Circular Sub Array)
 
 - Day 16 (Odd Even Linked List)
 
 - Day 17 (Find all Anagrams in a String)
 
+- Day 18 (Permutation in String)
 
-Licensed under the [MIT License](LICENSE) 
+- Day 19 (Online Stock Span)
