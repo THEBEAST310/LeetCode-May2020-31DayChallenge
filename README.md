@@ -46,3 +46,5 @@
 - Day 18 (Permutation in String)
 
 - Day 19 (Online Stock Span)
+
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=THEBEAST310&show_icons=true&theme=cobalt)
